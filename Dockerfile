@@ -3,6 +3,10 @@ FROM moremagic/jupyter:opencv
 MAINTAINER chck
 
 RUN \
+  apt-get update -y && \
+  apt-get install -y vim
+
+RUN \
   mkdir /work
 
 WORKDIR \
