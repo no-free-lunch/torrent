@@ -1,0 +1,12 @@
+# python
+*.pyc
+.python-version
+
+# mac
+.DS_Store
+
+# pycharm
+.idea/
+
+# jupyter notebook
+.ipynb_checkpoints/
