@@ -1,5 +1,8 @@
 # torrent
 
+## Features
+- Dockerfile which is useful for kaggle competition.
+
 ## Requirements
 ```
 % docker 1.13.X
