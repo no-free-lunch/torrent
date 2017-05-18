@@ -10,3 +10,13 @@
 
 # jupyter notebook
 .ipynb_checkpoints/
+
+notebooks/data/train/cats/*
+notebooks/data/train/dogs/*
+notebooks/data/validation/cats/*
+notebooks/data/validation/dogs/*
+notebooks/data/production/*
+notebooks/models/*.npy
+notebooks/models/*.h5
+!.keep
+
